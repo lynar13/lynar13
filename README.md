@@ -3,7 +3,7 @@
 
 # Hello there 👋
 
-Welcome to my GitHub profile! I'm Lyn, a passionate Front-End Developer dedicated to [a brief description of what you do or your interests].
+Welcome to my GitHub profile! I'm Lyn, a passionate Front-End Developer student, dedicated on creating projects from scratch using programming languages such as HTML, CSS and JavaScript.
 
 - 🔭 I’m currently working on my Portfolio website.
 - 🌱 I’m currently learning [what you are learning].
