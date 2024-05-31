@@ -1,11 +1,11 @@
 
 
 
-# Hi there 👋
+# Hello there 👋
 
-Welcome to my GitHub profile! I'm [Your Name], a passionate [Your Profession] dedicated to [a brief description of what you do or your interests].
+Welcome to my GitHub profile! I'm Lyn, a passionate Front-End Developer dedicated to [a brief description of what you do or your interests].
 
-- 🔭 I’m currently working on [your project or job].
+- 🔭 I’m currently working on my Portfolio website.
 - 🌱 I’m currently learning [what you are learning].
 - 👯 I’m looking to collaborate on [projects or types of projects you're interested in collaborating on].
 - 🤔 I’m looking for help with [areas you need help with].
@@ -14,29 +14,22 @@ Welcome to my GitHub profile! I'm [Your Name], a passionate [Your Profession] de
 - ⚡ Fun fact: [a fun fact about you].
 
 ## 🛠️ Technologies & Tools
-- Programming Languages: [list of programming languages you use].
+- Programming Languages: HTML, CSS and JavaScript.
 - Frameworks & Libraries: [list of frameworks and libraries].
 - Tools & Platforms: [tools and platforms you work with].
 
 ## 🚀 Projects
-- [Project 1 Name](link to project): A brief description of what this project does.
-- [Project 2 Name](link to project): A brief description of what this project does.
-- [Project 3 Name](link to project): A brief description of what this project does.
+- [HotView Labs](https://norofffeu.github.io/FED1-PE1-lynar13/): A comprehensive blogging platform that allows users to create, edit, delete, and view blog posts. 
+- [Nannestad Science Museum](https://lynar13.github.io/nannestad-science-museum/): The Nannestad Science Museum website is designed to provide information about the museum's exhibits, events, and services. It offers an engaging user experience with responsive design and accessibility features.
+- [Square Eyes](https://norofffeu.github.io/html-css-course-assignment-lynar13/home.html)): Square Eyes is a responsive website designed and developed as part of the HTML & CSS course assignment. The project showcases a functional, multi-page site built from scratch without the use of frameworks, emphasizing semantic HTML, DRY CSS principles, and accessibility standards.
 
-## 📝 Blog Posts
-- [Blog Post 1](link to blog post)
-- [Blog Post 2](link to blog post)
-- [Blog Post 3](link to blog post)
 
 ## 🌐 Connect with me
 - [LinkedIn](link to your LinkedIn profile)
 - [Twitter](link to your Twitter profile)
 - [Email](mailto:your.email@example.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-```
 
 
 
