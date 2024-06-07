@@ -22,8 +22,6 @@ Welcome to my GitHub profile! I'm Lyn, a passionate Front-End Developer student,
 
 
 ## 🌐 Connect with me
-- [LinkedIn](link to your LinkedIn profile)
-- [Twitter](link to your Twitter profile)
 - [Email](babyjelly13@gmail.com)
 
 
