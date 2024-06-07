@@ -6,17 +6,14 @@
 Welcome to my GitHub profile! I'm Lyn, a passionate Front-End Developer student, dedicated on creating projects from scratch using programming languages such as HTML, CSS and JavaScript.
 
 - 🔭 I’m currently working on my Portfolio website.
-- 🌱 I’m currently learning [what you are learning].
-- 👯 I’m looking to collaborate on [projects or types of projects you're interested in collaborating on].
-- 🤔 I’m looking for help with [areas you need help with].
-- 💬 Ask me about [topics you're knowledgeable about].
-- 📫 How to reach me: [your contact information].
-- ⚡ Fun fact: [a fun fact about you].
+- 🌱 I’m currently learning React JS.
+- 📫 How to reach me: babyjelly13@gmail.com.
+- ⚡ Fun fact: I love singing and traveling around the world.
 
 ## 🛠️ Technologies & Tools
 - Programming Languages: HTML, CSS and JavaScript.
-- Frameworks & Libraries: [list of frameworks and libraries].
-- Tools & Platforms: [tools and platforms you work with].
+- Frameworks & Libraries: React JS.
+- Tools & Platforms: VS Code, GitHub.
 
 ## 🚀 Projects
 - [HotView Labs](https://norofffeu.github.io/FED1-PE1-lynar13/): A comprehensive blogging platform that allows users to create, edit, delete, and view blog posts. 
