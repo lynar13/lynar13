@@ -6,7 +6,7 @@
 Welcome to my GitHub profile! I'm Lyn, a passionate Front-End Developer student, dedicated on creating projects from scratch using programming languages such as HTML, CSS and JavaScript.
 
 - 🔭 I’m currently working on my Portfolio website.
-- 🌱 I’m currently learning React JS.
+- 🌱 I’m currently learning React JS, TypeScript and Node.js.
 - 📫 How to reach me: [email].
 - ⚡ Fun fact: I love singing and traveling around the world.
 
