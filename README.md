@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Lyn, a passionate Front-End Developer student,
 
 - 🔭 I’m currently working on my Portfolio website.
 - 🌱 I’m currently learning React JS, TypeScript and Node.js.
-- 📫 How to reach me: [email].
+- 📫 How to reach me: [email](babyjelly13@gmail.com).
 - ⚡ Fun fact: I love singing and traveling around the world.
 
 ## 🛠️ Technologies & Tools
