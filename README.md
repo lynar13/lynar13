@@ -3,10 +3,10 @@
 
 # Hello there 👋
 
-Welcome to my GitHub profile! I'm Lyn, a passionate Front-End Developer student, dedicated on creating projects from scratch using programming languages such as HTML, CSS and JavaScript.
+Welcome to my GitHub profile! I'm Lyn, a passionate Front-End Developer graduate, dedicated on creating projects from scratch using programming languages such as HTML, CSS and JavaScript.
 
-- 🔭 I’m currently working with my team of student developers on Agency project called "MMF", a charity organization.
-- 🌱 I’m currently learning React JS, TypeScript and Node.js.
+- 🔭 I worked with my team of student developers on Agency project called "MMF", a charity organization.
+- 🌱 I learned React JS, TypeScript and Node.js.
 - 📫 How to reach me: [email](romelyn.resell@gmail.com).
 - ⚡ Fun fact: I love singing and traveling around the world.
 
